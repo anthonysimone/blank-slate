@@ -1,12 +1,12 @@
 {
-  "name": "themekit",
-  "version": "1.0.0",
-  "description": "Starter drupal theme kit.",
+  "name": "blank_slate",
+  "version": "0.1.0",
+  "description": "Basic empty project with preprocessors and Foundation setup.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Elevated Third",
+  "author": "Anthony Simone",
   "license": "ISC",
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
